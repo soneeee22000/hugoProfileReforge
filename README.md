@@ -1,19 +1,19 @@
 # Hugo Profile Reforge
 
-- Clone from [src](ttps://github.com/gurusabarish/hugo-profile/)
+- Clone from [src](https://github.com/gurusabarish/hugo-profile/)
 - Contribute in minor change of `about me` section.
   - Change from simple text list to list of image source.
 <img src = 'images/listimg.png'>
 
-- If you like this profile, please support the owner
-'''
+- If you like this profile, please support the [Original owner](https://github.com/gurusabarish/)
+<!-- '''
 🤝 Support
 
 Give a ⭐️ or buy me a ~`coffee`~ tea if you like this project!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7BFFGU)
 
-<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a> -->
 '''
 <!-- ## Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki) -->
 
