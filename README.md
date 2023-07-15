@@ -1,6 +1,13 @@
-# Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
+# Hugo Profile Reforge
 
-[![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile) [![GitHub forks](https://img.shields.io/github/forks/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/network) [![GitHub stars](https://img.shields.io/github/stars/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/stargazers)
+- Clone from [src](ttps://github.com/gurusabarish/hugo-profile/)
+- Contribute in minor change of `about me` section.
+  - Change from simple text list to list of image source.
+<img src = 'images/listimg.png'>
+
+## Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
+
+<!-- [![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile) [![GitHub forks](https://img.shields.io/github/forks/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/network) [![GitHub stars](https://img.shields.io/github/stars/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/stargazers)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c1dcb34-cada-4c80-82b7-cfdbdbd7c774/deploy-status)](https://app.netlify.com/sites/hugo-profile/deploys)
 ![Latest Release](https://img.shields.io/github/v/release/gurusabarish/hugo-profile?include_prereleases)
@@ -9,44 +16,48 @@
 ![Open Pull Requests](https://img.shields.io/github/issues-pr/gurusabarish/hugo-profile?color=yellowgreen)
 ![License](https://img.shields.io/github/license/gurusabarish/hugo-profile)
 
-A high performance and mobile first hugo template for personal portfolio and blog
+A high performance and mobile first hugo template for personal portfolio and blog -->
 
-- Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app)
+ <!-- Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app) -->
 
 # Features
+
 - Fully Responsive
 - Minimalist Design
 - SEO Friendly.
 - Light/Dark/auto
 - Taxonomies
 - [Color customization](https://github.com/gurusabarish/hugo-profile/wiki/Color-Customization)
-- Analytics Support 
+- Analytics Support
   - [Google Analytics](https://gohugo.io/templates/internal/#google-analytics)
 - Comment Support
   - [Disqus](https://gohugo.io/content-management/comments/)
 - Integration with [FormSpree](https://formspree.io/) for submitting "Contact me" form
 
-Technology used: Bootstrap, fontawesome 
+Technology used: Bootstrap, fontawesome
 
 # Requirements
-- Hugo Version 0.87.0 or higher
 
+- Hugo Version 0.87.0 or higher
 
 # How to use this template
 
-- [Hugo theme](#Hugo-theme)
-- [Direct deployment using netlify](#Direct-deployment-using-netlify)
+- [Hugo theme](#hugo-theme)
+- [Direct deployment using netlify](#direct-deployment-using-netlify)
 
 [For more details](https://github.com/gurusabarish/hugo-profile/wiki)
+
 ## Hugo theme
 
 - Install Hugo and create a site using `hugo new site my-site -f=yaml`
 - Clone this repo inside your themes folder
+
 ```
 cd themes
 git clone https://github.com/gurusabarish/hugo-profile.git
 ```
-- Create config.yaml (you can use `config.toml` too) inside root folder 
+
+- Create config.yaml (you can use `config.toml` too) inside root folder
 - Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/exampleSite/config.yaml)
 - You should have the mentioned (_inside the config file_) images in static folder to use them.
 
