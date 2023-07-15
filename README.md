@@ -5,7 +5,17 @@
   - Change from simple text list to list of image source.
 <img src = 'images/listimg.png'>
 
-## Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
+- If you like this profile, please support the owner
+'''
+🤝 Support
+
+Give a ⭐️ or buy me a ~`coffee`~ tea if you like this project!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7BFFGU)
+
+<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
+'''
+<!-- ## Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki) -->
 
 <!-- [![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile) [![GitHub forks](https://img.shields.io/github/forks/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/network) [![GitHub stars](https://img.shields.io/github/stars/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/stargazers)
 
@@ -20,7 +30,7 @@ A high performance and mobile first hugo template for personal portfolio and blo
 
  <!-- Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app) -->
 
-# Features
+<!-- # Features
 
 - Fully Responsive
 - Minimalist Design
@@ -92,4 +102,4 @@ Give a ⭐️ or buy me a ~`coffee`~ tea if you like this project!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7BFFGU)
 
-<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a> -->
